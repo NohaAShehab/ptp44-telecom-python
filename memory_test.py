@@ -12,3 +12,6 @@ print(mys)
 # print(info)
 
 # need new datatype --> represent key:value pair
+
+bio = "{username}, {userwork}"
+print(bio.format(username='noha', userwork='iti'))
