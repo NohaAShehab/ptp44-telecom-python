@@ -15,3 +15,25 @@ print(mys)
 
 bio = "{username}, {userwork}"
 print(bio.format(username='noha', userwork='iti'))
+
+
+
+
+def myfun():
+       name = "ahmed"
+       pass
+
+myfun()
+print("----")
+
+
+
+
+
+
+
+
+
+
+
+
